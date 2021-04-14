@@ -13,13 +13,16 @@ public class Stack {
 	}
 
 	public void push(Object e) {
-
+		ensureCapacity();
+		elements[size++] = e;
 	}
 
 	public Object pop() {
 		if(size == 0)
 			throw new EmptyStackException();
-		return elements[--size];
+		Object result = elements[--size];
+		elements[--size] = null;
+		return result;
 	}
 
 	private void ensureCapacity() {

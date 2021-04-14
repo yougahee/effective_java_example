@@ -38,6 +38,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/chapter2/Stack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/chapter2/builder/CalzonePizza.java">
           <value>
             <set />
@@ -54,6 +59,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/chapter2/singleton/Elvis.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter2/try_with_resource/TryFinally.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter2/try_with_resource/Try_Finally_Resource.java">
           <value>
             <set />
           </value>
