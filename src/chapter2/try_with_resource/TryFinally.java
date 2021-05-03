@@ -9,7 +9,6 @@ public class TryFinally {
 	static String firstLineOfFile(String path) throws IOException {
 		BufferedReader br = new BufferedReader(new FileReader(path));
 		try {
-			//readLine에서 예외를 던지게 되면, close가 되지 않을 것
 			return br.readLine();
 		} finally {
 			br.close();

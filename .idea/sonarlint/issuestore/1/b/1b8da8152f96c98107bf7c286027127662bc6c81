@@ -1,0 +1,7 @@
+
+s
+java:S3008"VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™µ¡”8¶ÕÕ‡/
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜÎ£Îüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡İó¡
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ÜÎ£Îüÿÿÿÿ8¶ÕÕ‡/
