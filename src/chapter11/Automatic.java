@@ -1,4 +1,4 @@
-package chapter2.exception;
+package chapter11;
 
 import java.util.EmptyStackException;
 

@@ -19,3 +19,7 @@ G
 .src/chapter2/try_with_resource/TryFinally.java,b\8\b8a33cf7482754bcaee589977058257e518a9720
 h
 8src/chapter2/try_with_resource/Try_Finally_Resource.java,1\b\1b8da8152f96c98107bf7c286027127662bc6c81
+\
+,src/chapter2/exception/ExceptionExample.java,e\b\eb302e4c71c5f698b43b19f40e2101ada29008aa
+U
+%src/chapter2/exception/Automatic.java,3\5\3569687dbca5dda1cc9b31244c58697e5130826e
