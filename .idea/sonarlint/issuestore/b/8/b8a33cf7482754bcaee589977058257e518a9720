@@ -1,10 +1,10 @@
 
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¾ĞÇ‡/
+s
+java:S3008"VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™µ¡”8¾ĞÇ‡/
 \
 java:S1118":Add a private constructor to hide the implicit public one.(—™Èıûÿÿÿÿ8—Ë¸‡/
 L
 java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8“½º‡/
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡İó¡
-s
-java:S3008"VRename this field "BUFFER_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™µ¡”8¾ĞÇ‡/
-L
-java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¾ĞÇ‡/

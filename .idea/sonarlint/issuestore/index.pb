@@ -25,3 +25,11 @@ L
 src/chapter11/Automatic.java,0\3\031ef4ae53584b20f1345add6c36dc6321841823
 I
 src/chapter4/Complex.java,a\a\aa91dd9a255cc93bdd68771db9d38abceb8c40e8
+I
+src/chapter5/Generic.java,4\e\4e49bb14db7a09a0664f64e9319b7896c0455374
+I
+src/chapter5/Chooser.java,3\6\366ba37c6d85712d864f166bd4a95cb91ce51ea0
+G
+src/chapter5/Stack.java,7\0\709ca27e122897ea903f5572dc25f3f624d0b201
+O
+src/chapter5/GenericMethod.java,6\6\661926854d7d89672ded4736ccc86da5dc2f2aae
