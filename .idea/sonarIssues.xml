@@ -73,12 +73,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/chapter2/builder/NutritionFacts.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/chapter2/builder/NyPizza.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/chapter2/builder/Pizza.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter2/dependent_object/SpellChecker.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter2/dependent_object/SpellChecker2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter2/dependent_object/SpellChecker3.java">
           <value>
             <set />
           </value>

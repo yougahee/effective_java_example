@@ -1,5 +1,7 @@
 package chapter2.singleton;
 
+import java.util.function.Supplier;
+
 //public static final 필드 방식의 싱글턴
 public class Elvis {
 	public static final Elvis INSTANCE = new Elvis();
@@ -9,7 +11,8 @@ public class Elvis {
 
 	public static void main(String[] args) {
 		Elvis elvis = Elvis.INSTANCE;
-		Elvis2 el = Elvis2.getInstance();
+
+		Supplier<Elvis2> elvis2Supplier = Elvis2::getInstance;
 	}
 }
 
@@ -22,3 +25,8 @@ class Elvis2 {
 	public void leaveTheBuilding() {}
 }
 
+//enum 타입 방식의 싱글턴 - 바람직한 방법
+enum Elvis3 {
+	INSTANCE;
+	public void leaveTheBuilding() {}
+}

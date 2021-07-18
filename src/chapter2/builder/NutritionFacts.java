@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2.builder;
 
 public class NutritionFacts {
 	private final int servingSize;
@@ -54,5 +54,13 @@ public class NutritionFacts {
 		fat = builder.fat;
 		sodium = builder.sodium;
 		carbohydrate = builder.carbohydrate;
+	}
+
+	public static void main(String[] args) {
+		NutritionFacts cocaCola = new Builder(240, 8)
+				.calories(100)
+				.sodium(35)
+				.carbohydrate(27)
+				.build();
 	}
 }
