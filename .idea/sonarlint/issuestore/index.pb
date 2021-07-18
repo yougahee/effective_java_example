@@ -1,0 +1,37 @@
+
+P
+ src/chapter2/NutritionFacts.java,6\1\618518876c3e487ad067e95830ef6882c687b8fa
+Q
+!src/chapter2/singleton/Elvis.java,4\0\40d0de5a57b650664193c2a2c50bb6e1e78b9989
+Q
+!src/chapter2/builder/NyPizza.java,7\6\768539d9084116cf25f5cd36a35da9b9d860904e
+N
+src/chapter2/SpellChecker.java,e\b\eb589f0d7214ed3fb4fecad7cd29ef0c82d8e49f
+O
+src/chapter2/builder/Pizza.java,4\1\411426c909ca31b5f63e47327cd26871b8fce74c
+V
+&src/chapter2/builder/CalzonePizza.java,d\b\dbd6b17ec22e938624e376c9044e50dd3f45fbde
+O
+src/chapter2/RomanNumerals.java,f\f\ff6904a3ad5bef3bed9cbd4dd9e30959316a5f3d
+G
+src/chapter2/Stack.java,e\5\e503750da91c7c99ece4ffdac2feb12b8cfd3e41
+^
+.src/chapter2/try_with_resource/TryFinally.java,b\8\b8a33cf7482754bcaee589977058257e518a9720
+h
+8src/chapter2/try_with_resource/Try_Finally_Resource.java,1\b\1b8da8152f96c98107bf7c286027127662bc6c81
+S
+#src/chapter11/ExceptionExample.java,8\a\8a511d38e0031d8f915b295b9a6d6dc56677431e
+L
+src/chapter11/Automatic.java,0\3\031ef4ae53584b20f1345add6c36dc6321841823
+I
+src/chapter4/Complex.java,a\a\aa91dd9a255cc93bdd68771db9d38abceb8c40e8
+I
+src/chapter5/Generic.java,4\e\4e49bb14db7a09a0664f64e9319b7896c0455374
+I
+src/chapter5/Chooser.java,3\6\366ba37c6d85712d864f166bd4a95cb91ce51ea0
+G
+src/chapter5/Stack.java,7\0\709ca27e122897ea903f5572dc25f3f624d0b201
+O
+src/chapter5/GenericMethod.java,6\6\661926854d7d89672ded4736ccc86da5dc2f2aae
+G
+src/chapter7/Ramda.java,b\e\be9ba0668deba0f3924e260f49008135ee4864fc

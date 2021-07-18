@@ -1,0 +1,14 @@
+
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û†ÈÂ8€Ï²ÿ‹/
+S
+java:S1854"6Remove this useless assignment to local variable "el".(ñù”ç8˜éÂÿ‹/
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û†ÈÂ8æ¾Ÿÿ‹/
+[
+java:S1854"9Remove this useless assignment to local variable "elvis".(ÚÿÐÄÿÿÿÿÿ8ò ½ÿ‹/
+L
+java:S1481"*Remove this unused "elvis" local variable.(ÚÿÐÄÿÿÿÿÿ8ò ½ÿ‹/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¢úôøÿÿÿÿ
+D
+java:S1481"'Remove this unused "el" local variable.(ñù”ç8˜éÂÿ‹/
