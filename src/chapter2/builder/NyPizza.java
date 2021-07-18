@@ -3,7 +3,7 @@ package chapter2.builder;
 import java.util.Objects;
 
 public class NyPizza extends Pizza {
-	public enum Size { SMALL, MEDIUM, LARGE }
+	public enum Size { SMALL, MEDIUM, LARGE, REGULAR }
 	private final Size size;
 
 	public static class Builder extends Pizza.Builder<Builder> {
