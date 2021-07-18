@@ -33,3 +33,5 @@ G
 src/chapter5/Stack.java,7\0\709ca27e122897ea903f5572dc25f3f624d0b201
 O
 src/chapter5/GenericMethod.java,6\6\661926854d7d89672ded4736ccc86da5dc2f2aae
+G
+src/chapter7/Ramda.java,b\e\be9ba0668deba0f3924e260f49008135ee4864fc

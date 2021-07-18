@@ -12,6 +12,9 @@ public class Stack {
 		elements = new Object[DEFAULT_INITIAL_CAPACITY];
 	}
 
+	public static void push() {
+	}
+
 	public void push(Object e) {
 		ensureCapacity();
 		elements[size++] = e;

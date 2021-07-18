@@ -21,4 +21,8 @@ public class Ramda {
 		Collections.sort(words, Comparator.comparingInt(String::length));
 
 	}
+
+	public void test() {
+		int plus = (x, y) -> x + y;
+	}
 }
