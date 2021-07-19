@@ -1,12 +1,8 @@
 
-P
- src/chapter2/NutritionFacts.java,6\1\618518876c3e487ad067e95830ef6882c687b8fa
 Q
 !src/chapter2/singleton/Elvis.java,4\0\40d0de5a57b650664193c2a2c50bb6e1e78b9989
 Q
 !src/chapter2/builder/NyPizza.java,7\6\768539d9084116cf25f5cd36a35da9b9d860904e
-N
-src/chapter2/SpellChecker.java,e\b\eb589f0d7214ed3fb4fecad7cd29ef0c82d8e49f
 O
 src/chapter2/builder/Pizza.java,4\1\411426c909ca31b5f63e47327cd26871b8fce74c
 V
@@ -35,3 +31,15 @@ O
 src/chapter5/GenericMethod.java,6\6\661926854d7d89672ded4736ccc86da5dc2f2aae
 G
 src/chapter7/Ramda.java,b\e\be9ba0668deba0f3924e260f49008135ee4864fc
+B
+effective_java.iml,9\7\974a3070fe42630b28ea70c7ca4dd9e41cd3d09e
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+X
+(src/chapter2/builder/NutritionFacts.java,1\7\17d449d0906ac5380bd17c1612144a995d1e1ed5
+_
+/src/chapter2/dependent_object/SpellChecker.java,9\5\95910fcabeda6c02f847d26ca59bdeb83bc67ee1
+`
+0src/chapter2/dependent_object/SpellChecker2.java,e\d\ed54161733dea6c1500dd4ae1557d8d29eb2e5a1
+`
+0src/chapter2/dependent_object/SpellChecker3.java,e\2\e2711a31482181f67a10a0becf603be6f155b6a0
