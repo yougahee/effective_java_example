@@ -43,3 +43,5 @@ _
 0src/chapter2/dependent_object/SpellChecker2.java,e\d\ed54161733dea6c1500dd4ae1557d8d29eb2e5a1
 `
 0src/chapter2/dependent_object/SpellChecker3.java,e\2\e2711a31482181f67a10a0becf603be6f155b6a0
+F
+src/chapter2/Room.java,e\5\e583c277ccf1d3c8bb7d1299846e1fa4dfe77490

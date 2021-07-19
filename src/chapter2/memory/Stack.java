@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2.memory;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;

@@ -1,17 +1,17 @@
 
-L
-java:S1481"*Remove this unused "elvis" local variable.(ÚÿĞÄÿÿÿÿÿ8İĞİÏ«/
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û†ÈÂ8©“Ğ«/
-U
-java:S1481"3Remove this unused "elvis2Supplier" local variable.(ôøÌÏûÿÿÿÿ8Öå®Ğ«/
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¢úôøÿÿÿÿ
-[
-java:S1854"9Remove this useless assignment to local variable "elvis".(ÚÿĞÄÿÿÿÿÿ8İĞİÏ«/
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û†ÈÂ8€Ï²ÿ‹/
 
 java:S1186
 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û†ÈÂ8æ¾Ÿÿ‹/
+[
+java:S1854"9Remove this useless assignment to local variable "elvis".(ÚÿĞÄÿÿÿÿÿ8İĞİÏ«/
 d
 java:S1854"BRemove this useless assignment to local variable "elvis2Supplier".(ôøÌÏûÿÿÿÿ8Öå®Ğ«/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û†ÈÂ8©“Ğ«/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û†ÈÂ8€Ï²ÿ‹/
+U
+java:S1481"3Remove this unused "elvis2Supplier" local variable.(ôøÌÏûÿÿÿÿ8Öå®Ğ«/
+L
+java:S1481"*Remove this unused "elvis" local variable.(ÚÿĞÄÿÿÿÿÿ8İĞİÏ«/
