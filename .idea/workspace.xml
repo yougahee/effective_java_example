@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/equals/CaseInsensitiveString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter3/equals/EqualsOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/equals/ColorPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/equals/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/equals/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17d449d0906ac5380bd17c1612144a995d1e1ed5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17d449d0906ac5380bd17c1612144a995d1e1ed5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40d0de5a57b650664193c2a2c50bb6e1e78b9989" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40d0de5a57b650664193c2a2c50bb6e1e78b9989" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e503750da91c7c99ece4ffdac2feb12b8cfd3e41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed54161733dea6c1500dd4ae1557d8d29eb2e5a1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed54161733dea6c1500dd4ae1557d8d29eb2e5a1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff6904a3ad5bef3bed9cbd4dd9e30959316a5f3d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff6904a3ad5bef3bed9cbd4dd9e30959316a5f3d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +148,7 @@
       <workItem from="1626703055123" duration="2048000" />
       <workItem from="1626736317638" duration="938000" />
       <workItem from="1626871652959" duration="2465000" />
-      <workItem from="1626960287776" duration="1948000" />
+      <workItem from="1626960287776" duration="4959000" />
     </task>
     <servers />
   </component>
