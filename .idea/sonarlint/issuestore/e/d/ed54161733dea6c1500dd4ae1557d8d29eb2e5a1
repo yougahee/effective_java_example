@@ -2,9 +2,9 @@
 p
 java:S3008
 "SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÇîÇ8ýì Ñ«/
-J
-java:S1068".Remove this unused "dictionary" private field.(¥ûé8ýì Ñ«/
 I
 java:S1068
 ",Remove this unused "INSTANCE" private field.(—ÇîÇ8ýì Ñ«/
 n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê©“>
+J
+java:S1068".Remove this unused "dictionary" private field.(¥ûé8ýì Ñ«/

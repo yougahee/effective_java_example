@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter2/memory/CacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/equals/CaseInsensitiveString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter3/equals/EqualsOverride.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17d449d0906ac5380bd17c1612144a995d1e1ed5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17d449d0906ac5380bd17c1612144a995d1e1ed5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40d0de5a57b650664193c2a2c50bb6e1e78b9989" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40d0de5a57b650664193c2a2c50bb6e1e78b9989" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2711a31482181f67a10a0becf603be6f155b6a0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2711a31482181f67a10a0becf603be6f155b6a0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e503750da91c7c99ece4ffdac2feb12b8cfd3e41" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e503750da91c7c99ece4ffdac2feb12b8cfd3e41" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e503750da91c7c99ece4ffdac2feb12b8cfd3e41" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed54161733dea6c1500dd4ae1557d8d29eb2e5a1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed54161733dea6c1500dd4ae1557d8d29eb2e5a1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff6904a3ad5bef3bed9cbd4dd9e30959316a5f3d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ff6904a3ad5bef3bed9cbd4dd9e30959316a5f3d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter2/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/memory/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,16 +59,16 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="chapter5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericMethod">
+  <component name="RunManager" selected="Application.Room">
     <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter11.exception.ExceptionExample" />
       <module name="effective_java" />
@@ -94,8 +95,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Room" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Room" />
+      <module name="effective_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Room" />
         <item itemvalue="Application.GenericMethod" />
         <item itemvalue="Application.ExceptionExample" />
       </list>
@@ -136,7 +151,9 @@
       <workItem from="1626589138221" duration="3700000" />
       <workItem from="1626596128885" duration="7115000" />
       <workItem from="1626703055123" duration="2048000" />
-      <workItem from="1626736317638" duration="260000" />
+      <workItem from="1626736317638" duration="938000" />
+      <workItem from="1626871652959" duration="2465000" />
+      <workItem from="1626960287776" duration="1948000" />
     </task>
     <servers />
   </component>
@@ -144,10 +161,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Project_Structure" timestamp="1618119966589">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1626875309797">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1618119966589" />
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1626875309797" />
     <state x="537" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626595789402">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -196,14 +213,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621870189398" />
-    <state x="459" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1626736344464">
+    <state x="459" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1626960307420">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="459" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1626736344464" />
-    <state x="292" y="90" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1618124452007">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="292" y="90" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1618124452007" />
+    <state x="459" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1626960307420" />
     <state x="511" y="30" key="refactoring.ChangeSignatureDialog" timestamp="1626620923026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

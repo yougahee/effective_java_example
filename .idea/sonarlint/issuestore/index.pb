@@ -9,8 +9,6 @@ V
 &src/chapter2/builder/CalzonePizza.java,d\b\dbd6b17ec22e938624e376c9044e50dd3f45fbde
 O
 src/chapter2/RomanNumerals.java,f\f\ff6904a3ad5bef3bed9cbd4dd9e30959316a5f3d
-G
-src/chapter2/Stack.java,e\5\e503750da91c7c99ece4ffdac2feb12b8cfd3e41
 ^
 .src/chapter2/try_with_resource/TryFinally.java,b\8\b8a33cf7482754bcaee589977058257e518a9720
 h
@@ -45,3 +43,7 @@ _
 0src/chapter2/dependent_object/SpellChecker3.java,e\2\e2711a31482181f67a10a0becf603be6f155b6a0
 F
 src/chapter2/Room.java,e\5\e583c277ccf1d3c8bb7d1299846e1fa4dfe77490
+N
+src/chapter2/memory/Stack.java,7\8\7831d136d10bd52c4b7d3b9110a1a3ec3930e598
+R
+"src/chapter2/memory/CacheTest.java,7\1\7169db129edc7c6a7c5a42552bb44b7489570a81
