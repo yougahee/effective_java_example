@@ -47,3 +47,13 @@ N
 src/chapter2/memory/Stack.java,7\8\7831d136d10bd52c4b7d3b9110a1a3ec3930e598
 R
 "src/chapter2/memory/CacheTest.java,7\1\7169db129edc7c6a7c5a42552bb44b7489570a81
+W
+'src/chapter3/equals/EqualsOverride.java,4\e\4ed64182859e15841a9655ad0d037da132b7949f
+^
+.src/chapter3/equals/CaseInsensitiveString.java,0\d\0de5c80e6366198463287e3990e054f8fd2643c9
+N
+src/chapter3/equals/Point.java,7\9\795206a38924a9576bd5097fe3897b32d70f017e
+S
+#src/chapter3/equals/ColorPoint.java,b\d\bdd0cf17472bdc4d4843b12e398cb77957e42390
+T
+$src/chapter3/equals/PhoneNumber.java,b\a\ba1b84c98ad98a64259dde63a2de19c0842705a3
