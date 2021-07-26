@@ -57,3 +57,7 @@ S
 #src/chapter3/equals/ColorPoint.java,b\d\bdd0cf17472bdc4d4843b12e398cb77957e42390
 T
 $src/chapter3/equals/PhoneNumber.java,b\a\ba1b84c98ad98a64259dde63a2de19c0842705a3
+M
+src/chapter3/clone/Stack.java,7\6\7662b2ebf8c9a074d1674af0fc0f9b1d06d7cf72
+Q
+!src/chapter3/clone/HashTable.java,5\5\552e870e52c3cbc3d0ccd36785c690bade9bcb30
