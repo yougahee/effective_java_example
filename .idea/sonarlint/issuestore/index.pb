@@ -61,3 +61,5 @@ M
 src/chapter3/clone/Stack.java,7\6\7662b2ebf8c9a074d1674af0fc0f9b1d06d7cf72
 Q
 !src/chapter3/clone/HashTable.java,5\5\552e870e52c3cbc3d0ccd36785c690bade9bcb30
+U
+%src/chapter3/compare/PhoneNumber.java,f\1\f1ecbbd2dd0197b295a5ecc38ae86445e79f7acc

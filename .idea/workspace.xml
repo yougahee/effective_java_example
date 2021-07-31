@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter3/compare/PhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0de5c80e6366198463287e3990e054f8fd2643c9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0de5c80e6366198463287e3990e054f8fd2643c9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed64182859e15841a9655ad0d037da132b7949f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ed64182859e15841a9655ad0d037da132b7949f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7169db129edc7c6a7c5a42552bb44b7489570a81" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7169db129edc7c6a7c5a42552bb44b7489570a81" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/552e870e52c3cbc3d0ccd36785c690bade9bcb30" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/552e870e52c3cbc3d0ccd36785c690bade9bcb30" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba1b84c98ad98a64259dde63a2de19c0842705a3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba1b84c98ad98a64259dde63a2de19c0842705a3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e583c277ccf1d3c8bb7d1299846e1fa4dfe77490" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e583c277ccf1d3c8bb7d1299846e1fa4dfe77490" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/clone/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/clone/HashTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +155,9 @@
       <workItem from="1626871652959" duration="2465000" />
       <workItem from="1626960287776" duration="5221000" />
       <workItem from="1627199467237" duration="2978000" />
-      <workItem from="1627304930865" duration="1773000" />
+      <workItem from="1627304930865" duration="2221000" />
+      <workItem from="1627562066907" duration="586000" />
+      <workItem from="1627714672845" duration="1214000" />
     </task>
     <servers />
   </component>
@@ -217,10 +217,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621870189398" />
-    <state x="459" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1627305263136">
+    <state x="459" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1627714726195">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="459" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1627305263136" />
+    <state x="459" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1627714726195" />
     <state x="511" y="30" key="refactoring.ChangeSignatureDialog" timestamp="1626620923026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
