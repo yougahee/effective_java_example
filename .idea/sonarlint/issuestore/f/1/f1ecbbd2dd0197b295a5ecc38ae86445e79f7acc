@@ -1,10 +1,10 @@
 
-@
-java:S1659"%Declare "lineNum" on a separate line.(¹ª×Ûüÿÿÿÿ
-X	java:S125@"<This block of commented-out lines of code should be removed.(»Í§²8½î˜®/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êŞ„ûÿÿÿÿ
 ?
 java:S1659"$Declare "prefix" on a separate line.(¹ª×Ûüÿÿÿÿ
-Q	java:S125!"<This block of commented-out lines of code should be removed.(ğÜşŠ
+@
+java:S1659"%Declare "lineNum" on a separate line.(¹ª×Ûüÿÿÿÿ
 n
 java:S29756"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ı›Àúÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(ğÜşŠ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êŞ„ûÿÿÿÿ
+X	java:S125@"<This block of commented-out lines of code should be removed.(»Í§²8½î˜®/

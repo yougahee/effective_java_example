@@ -8,6 +8,16 @@
             <set />
           </value>
         </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/effective_java.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/NutritionFacts.java">
           <value>
             <set />
@@ -204,6 +214,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/chapter4/Complex.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter4/ForwardingSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter4/InstrumentedHashSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter4/InstrumentedSet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter4/InstrumentedSet2.java">
           <value>
             <set />
           </value>

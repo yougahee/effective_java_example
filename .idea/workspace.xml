@@ -2,14 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter4/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NutritionFacts$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NutritionFacts$Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NutritionFacts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/Lexicon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/NoriDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/SpellChecker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/SpellChecker2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/SpellChecker3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/memory/CacheTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/memory/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/static_factory_method/StaticFactoryMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/clone/HashTable$Entry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/clone/HashTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/clone/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/compare/PhoneNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/CaseInsensitiveString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/ColorPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/EqualsOverride.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/PhoneNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/InstrumentedHashSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/Method.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/effective_java/chapter7/Ramda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/ForwardingSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/InstrumentedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4/InstrumentedSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0de5c80e6366198463287e3990e054f8fd2643c9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0de5c80e6366198463287e3990e054f8fd2643c9" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/552e870e52c3cbc3d0ccd36785c690bade9bcb30" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/552e870e52c3cbc3d0ccd36785c690bade9bcb30" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7169db129edc7c6a7c5a42552bb44b7489570a81" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7169db129edc7c6a7c5a42552bb44b7489570a81" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/795206a38924a9576bd5097fe3897b32d70f017e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/795206a38924a9576bd5097fe3897b32d70f017e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba1b84c98ad98a64259dde63a2de19c0842705a3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba1b84c98ad98a64259dde63a2de19c0842705a3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdd0cf17472bdc4d4843b12e398cb77957e42390" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdd0cf17472bdc4d4843b12e398cb77957e42390" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1ecbbd2dd0197b295a5ecc38ae86445e79f7acc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1ecbbd2dd0197b295a5ecc38ae86445e79f7acc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/effective_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/effective_java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/META-INF/effective_java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter11/Automatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter11/Automatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter11/ExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter11/ExceptionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/NutritionFacts$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/NutritionFacts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/RomanNumerals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/RomanNumerals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/SpellChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$Size.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$Size.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza$Topping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza$Topping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/try_with_resource/TryFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/try_with_resource/TryFinally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/try_with_resource/Try_Finally_Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/try_with_resource/Try_Finally_Resource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/Complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/Complex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/Chooser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/Chooser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/Generic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/GenericMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/GenericMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter2/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter2/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Complex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/Complex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Ramda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/Ramda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +119,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1432665" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -68,7 +129,7 @@
       <recent name="chapter5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Room">
+  <component name="RunManager" selected="Application.InstrumentedHashSet">
     <configuration name="ExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter11.exception.ExceptionExample" />
       <module name="effective_java" />
@@ -95,7 +156,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InstrumentedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter4.InstrumentedHashSet" />
+      <module name="effective_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Room" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="chapter2.Room" />
       <module name="effective_java" />
       <extension name="coverage">
@@ -108,8 +186,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ExceptionExample" />
+      <item itemvalue="Application.GenericMethod" />
+      <item itemvalue="Application.InstrumentedHashSet" />
+      <item itemvalue="Application.Room" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InstrumentedHashSet" />
         <item itemvalue="Application.Room" />
         <item itemvalue="Application.GenericMethod" />
         <item itemvalue="Application.ExceptionExample" />
@@ -157,7 +242,8 @@
       <workItem from="1627199467237" duration="2978000" />
       <workItem from="1627304930865" duration="2221000" />
       <workItem from="1627562066907" duration="586000" />
-      <workItem from="1627714672845" duration="1214000" />
+      <workItem from="1627714672845" duration="1824000" />
+      <workItem from="1627805546424" duration="5383000" />
     </task>
     <servers />
   </component>
@@ -165,18 +251,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Project_Structure" timestamp="1626875309797">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1627909514162">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1626875309797" />
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1627909514162" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627909683949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1627909683949" />
     <state x="537" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626595789402">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="537" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1626595789402" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1626703330485">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1627910631846">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1626703330485" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1627910631846" />
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1627909654360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1627909654360" />
     <state x="617" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1626597206370">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -185,6 +279,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="560" y="297" width="415" height="239" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1626594021139" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1627909511650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627909511650" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1621870189404">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -217,10 +315,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621870189398" />
-    <state x="459" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1627714726195">
+    <state x="459" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1627805585294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="459" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1627714726195" />
+    <state x="459" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1627805585294" />
     <state x="511" y="30" key="refactoring.ChangeSignatureDialog" timestamp="1626620923026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

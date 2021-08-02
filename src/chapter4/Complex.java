@@ -1,13 +1,24 @@
 package chapter4;
 
+import java.math.BigInteger;
+
 public final class Complex {
 	private final double re;
 	private final double im;
 
-	public Complex(double re, double im) {
+	private Complex(double re, double im) {
 		this.re = re;
 		this.im = im;
 	}
+
+	public static Complex valueof(double re, double im) {
+		return new Complex(re, im);
+	}
+
+//	public Complex(double re, double im) {
+//		this.re = re;
+//		this.im = im;
+//	}
 
 	public double realPart() {
 		return re;

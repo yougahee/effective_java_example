@@ -63,3 +63,7 @@ Q
 !src/chapter3/clone/HashTable.java,5\5\552e870e52c3cbc3d0ccd36785c690bade9bcb30
 U
 %src/chapter3/compare/PhoneNumber.java,f\1\f1ecbbd2dd0197b295a5ecc38ae86445e79f7acc
+H
+src/chapter4/Method.java,e\3\e365d2f0f8bb2bf3b29423e5d3439bf481c1c20b
+G
+src/chapter4/Point.java,1\c\1c05f8acc82124d43a0c803002664c212b4fb513

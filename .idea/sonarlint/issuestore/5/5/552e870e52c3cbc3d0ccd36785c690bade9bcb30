@@ -1,7 +1,7 @@
 
-]	java:S125"<This block of commented-out lines of code should be removed.(ÜÁö­ûÿÿÿÿ8ñªÕ—®/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¤ş®
 P
 java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8·«©ç­/
+]	java:S125"<This block of commented-out lines of code should be removed.(ÜÁö­ûÿÿÿÿ8ñªÕ—®/
 u
 java:S2975)"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ÜÁö­ûÿÿÿÿ8‘ÿÖ—®/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¤ş®

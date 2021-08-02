@@ -1,3 +1,4 @@
+/*
 package chapter2;
 
 import java.lang.ref.Cleaner;
@@ -38,3 +39,4 @@ public class Room implements AutoCloseable{
 		cleanable.clean();
 	}
 }
+*/

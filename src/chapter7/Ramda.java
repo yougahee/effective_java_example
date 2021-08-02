@@ -5,6 +5,8 @@ import java.util.*;
 public class Ramda {
 	public static void main(String[] args) {
 
+
+		/*
 		// 익명클래스
 		Collections.sort(words, new Comparator<String>() {
 			public int compare(String s1, String s2) {
@@ -24,5 +26,6 @@ public class Ramda {
 
 	public void test() {
 		int plus = (x, y) -> x + y;
+	}*/
 	}
 }
