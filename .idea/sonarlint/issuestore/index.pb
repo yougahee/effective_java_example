@@ -73,3 +73,17 @@ U
 %src/chapter4/InstrumentedHashSet.java,4\7\4710460fd2c8a77d8e4b176bbb0b2c16eb9a468e
 Q
 !src/chapter4/InstrumentedSet.java,e\0\e0115256deffe0986d44cf812ba51c8a4896f458
+a
+1src/chapter4/interfacetype/PhysicalConstants.java,3\2\3281a51900e1d7e47f20aba5bfc29f05cf363da6
+T
+$src/chapter4/interfacetype/Test.java,d\8\d8e5ac4103b461a6f7e451219cda603adf215248
+L
+src/chapter4/tag/Figure.java,7\3\7393d355489286984a4264b9b0cd638d0e4a9b5a
+R
+"src/chapter4/topclass/Utensil.java,7\9\794acce4d0e0bbf9446251caa2d6da7edf003bc4
+O
+src/chapter4/topclass/Test.java,7\8\78e83b14e49d039ce9ea53f037f6e14a0d049331
+O
+src/chapter4/topclass/Main.java,b\2\b2222217022d8e7e3ee8e293a0d816dcd2589083
+T
+$src/chapter4/tag/AbstractFigure.java,0\8\08195d9e7836116cdb9cef4bffd13305c1b86fd7

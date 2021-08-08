@@ -263,6 +263,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/chapter4/nested/AnonymousClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter4/nested/MySet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter4/nested/StaticNestedClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/chapter4/tag/AbstractFigure.java">
           <value>
             <set />
