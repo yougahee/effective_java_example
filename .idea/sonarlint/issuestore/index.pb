@@ -67,3 +67,9 @@ H
 src/chapter4/Method.java,e\3\e365d2f0f8bb2bf3b29423e5d3439bf481c1c20b
 G
 src/chapter4/Point.java,1\c\1c05f8acc82124d43a0c803002664c212b4fb513
+O
+src/chapter4/ForwardingSet.java,1\f\1f4f18f7994b8e1fcfd48c6ab527ad9ce59fa240
+U
+%src/chapter4/InstrumentedHashSet.java,4\7\4710460fd2c8a77d8e4b176bbb0b2c16eb9a468e
+Q
+!src/chapter4/InstrumentedSet.java,e\0\e0115256deffe0986d44cf812ba51c8a4896f458

@@ -1,8 +1,3 @@
 
-J
-java:S1604	"(Make this anonymous inner class a lambda(Š·İÍıÿÿÿÿ8®Ï˜œ/
-F
-java:S1481")Remove this unused "plus" local variable.(“Äø³8’³¼™œ/
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÅÎ§á
-U
-java:S1854"8Remove this useless assignment to local variable "plus".(“Äø³8şş±™œ/
+]	java:S125"<This block of commented-out lines of code should be removed.(Š·İÍıÿÿÿÿ8Ë€Ã·°/
