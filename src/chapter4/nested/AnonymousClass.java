@@ -1,5 +1,6 @@
 package chapter4.nested;
 
+
 public class AnonymousClass {
 }
 

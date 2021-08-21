@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úèÇÓ
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ù‰•Ãûÿÿÿÿ8ŠÐŠð´/
+R
+java:S1854"5Remove this useless assignment to local variable "s".(áºû§8ŠÐŠð´/
+C
+java:S1481"&Remove this unused "s" local variable.(áºû§8ŠÐŠð´/

@@ -87,3 +87,11 @@ O
 src/chapter4/topclass/Main.java,b\2\b2222217022d8e7e3ee8e293a0d816dcd2589083
 T
 $src/chapter4/tag/AbstractFigure.java,0\8\08195d9e7836116cdb9cef4bffd13305c1b86fd7
+Z
+*src/chapter4/nested/StaticNestedClass.java,0\2\0280e1670106142c4bf69267b41a67328240d33a
+N
+src/chapter4/nested/MySet.java,8\0\80485568c69e09506ae1e297cbd74558701c5cf3
+W
+'src/chapter4/nested/AnonymousClass.java,8\b\8b02a18309444bc16f54987696d0729bdae891fe
+L
+src/chapter5/LawExample.java,5\4\542240c39b74221879afa06b98e5eb636fb63b10

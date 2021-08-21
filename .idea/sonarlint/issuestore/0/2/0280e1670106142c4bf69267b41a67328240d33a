@@ -1,0 +1,8 @@
+
+n
+java:S1104"QMake inner a static final constant or non-public and provide accessors if needed.(§ºÆÜ8ÅÁ„±²/
+1
+java:S1700"Rename field "inner"(§ºÆÜ8ÅÁ„±²/
+T
+java:S1068"2Remove this unused "nonStaticOuter" private field.(¿ò”âýÿÿÿÿ8×®Ž±²/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëô£‚þÿÿÿÿ

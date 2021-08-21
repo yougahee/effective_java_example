@@ -14,5 +14,4 @@ public class Generic {
 		//List<Object> ol = new ArrayList<Long>();
 		//ol.add("타입이 달라서 넣을 수 없음");
 	}
-
 }
