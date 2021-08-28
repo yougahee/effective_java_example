@@ -26,5 +26,4 @@ public class InstrumentedSet<E> extends ForwardingSet<E> {
 		return addCount;
 	}
 
-	Collection
 }

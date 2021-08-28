@@ -348,6 +348,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/generic_method/IdentityFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/generic_method/RecursiveTypeBound.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/generic_method/Union.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/generic_method/UnionGeneric1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/chapter5/stack/ObjectStack.java">
           <value>
             <set />

@@ -3,9 +3,9 @@
 java:S1068"<Remove this unused "DEFAULT_INITIAL_CAPACITY" private field.(â¥ð‘ÿÿÿÿÿ8Ý‡â´¶/
 v
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÉÇ°8Ý‡â´¶/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€±„ƒþÿÿÿÿ
 O
 java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8æôò´¶/
 E
 java:S1068
 "(Remove this unused "size" private field.(“‹ìÿ8æôò´¶/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€±„ƒþÿÿÿÿ

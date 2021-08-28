@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥úÍ™8ıŸÚ¸/
+s
+java:S3008"VRename this field "IDENTITY_FN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‹˜¨8ä“Ù¸/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬Ü8ªÀ„Ú¸/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ôãÑ
+L
+java:S1611"/Remove the parentheses around the "t" parameter(ü‹˜¨8ä“Ù¸/

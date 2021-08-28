@@ -105,3 +105,11 @@ X
 (src/chapter5/stack/ObjectStackCopy1.java,b\8\b8d161498a59d66a3ad08fedbfa3397b679eee51
 X
 (src/chapter5/stack/ObjectStackCopy2.java,6\7\670e07fa69dea30e7cded8d014dbde562eee6124
+V
+&src/chapter5/generic_method/Union.java,7\b\7b7fd7d4341998736dc7b58c5244786da42172bf
+^
+.src/chapter5/generic_method/UnionGeneric1.java,3\d\3dac2eadd06df6138dd7a4cfc079d2ba890f8006
+a
+1src/chapter5/generic_method/IdentityFunction.java,2\f\2f312d207ac09bec7e238aac6a46decef7e2f385
+c
+3src/chapter5/generic_method/RecursiveTypeBound.java,0\c\0ca0a80a19c52b9e1a358b3d9805df92bdf1798c
