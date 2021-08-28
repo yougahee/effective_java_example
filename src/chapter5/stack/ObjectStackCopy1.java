@@ -1,15 +1,15 @@
-package chapter5;
+package chapter5.stack;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;
 
-public class Stack<E> {
+public class ObjectStackCopy1<E> {
 	private E[] elements;
 	private int size = 0;
 	private static final int DEFAULT_INITIAL_CAPACITY = 16;
 
 	@SuppressWarnings("unchecked")
-	public Stack() {
+	public ObjectStackCopy1() {
 		elements = (E[]) new Object[DEFAULT_INITIAL_CAPACITY];
 	}
 
@@ -21,9 +21,7 @@ public class Stack<E> {
 	public E pop() {
 		if(size == 0)
 			throw new EmptyStackException();
-
-		@SuppressWarnings("unchecked")
-		E result = (E) elements[--size];
+		E result = elements[--size];
 		elements[size] = null;
 		return result;
 	}
@@ -35,13 +33,5 @@ public class Stack<E> {
 	private void ensureCapacity() {
 		if(elements.length == size)
 			elements = Arrays.copyOf(elements, 2 * size + 1);
-	}
-
-	public static void main(String[] args) {
-		Stack<String> stack = new Stack<>();
-		for (String arg : args)
-			stack.push(arg);
-		while (!stack.isEmpty())
-			System.out.println(stack.pop().toUpperCase());
 	}
 }

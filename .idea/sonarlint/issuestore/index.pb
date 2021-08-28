@@ -23,8 +23,6 @@ I
 src/chapter5/Generic.java,4\e\4e49bb14db7a09a0664f64e9319b7896c0455374
 I
 src/chapter5/Chooser.java,3\6\366ba37c6d85712d864f166bd4a95cb91ce51ea0
-G
-src/chapter5/Stack.java,7\0\709ca27e122897ea903f5572dc25f3f624d0b201
 O
 src/chapter5/GenericMethod.java,6\6\661926854d7d89672ded4736ccc86da5dc2f2aae
 G
@@ -95,3 +93,15 @@ W
 'src/chapter4/nested/AnonymousClass.java,8\b\8b02a18309444bc16f54987696d0729bdae891fe
 L
 src/chapter5/LawExample.java,5\4\542240c39b74221879afa06b98e5eb636fb63b10
+U
+%src/chapter5/ArrayRatherThanList.java,2\d\2da839e278118ef50808ea75638e3a246a294699
+M
+src/chapter5/stack/Stack.java,f\b\fb719f38021ea739f7e064df9d5ac3b5f68489cc
+W
+'src/chapter5/stack/ObjectStackCopy.java,5\f\5f20b2a2ebd0827f48a56392a3b2435a5307b741
+S
+#src/chapter5/stack/ObjectStack.java,f\a\fab5912df2ac351c5c256d4adbef1043818f7570
+X
+(src/chapter5/stack/ObjectStackCopy1.java,b\8\b8d161498a59d66a3ad08fedbfa3397b679eee51
+X
+(src/chapter5/stack/ObjectStackCopy2.java,6\7\670e07fa69dea30e7cded8d014dbde562eee6124

@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter5/LawExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/ArrayRatherThanList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/stack/ObjectStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/stack/ObjectStackCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/stack/ObjectStackCopy1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5/stack/ObjectStackCopy2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/542240c39b74221879afa06b98e5eb636fb63b10" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/542240c39b74221879afa06b98e5eb636fb63b10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/709ca27e122897ea903f5572dc25f3f624d0b201" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter4/nested/AnonymousClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter4/nested/AnonymousClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/stack/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +67,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter5.stack" />
+      <recent name="chapter5" />
       <recent name="chapter3.compare" />
       <recent name="chapter3.clone" />
-      <recent name="chapter5" />
     </key>
   </component>
   <component name="RunManager" selected="Application.InstrumentedHashSet">
@@ -86,7 +92,7 @@
       <module name="effective_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.*" />
+          <option name="PATTERN" value="chapter5.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,6 +197,8 @@
       <workItem from="1628916312785" duration="44000" />
       <workItem from="1628916417493" duration="128000" />
       <workItem from="1629097791947" duration="3268000" />
+      <workItem from="1629511476814" duration="3888000" />
+      <workItem from="1629891826447" duration="2624000" />
     </task>
     <servers />
   </component>
@@ -262,10 +270,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1621870189398" />
-    <state x="459" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1628916470554">
+    <state x="459" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1629892138372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="459" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1628916470554" />
+    <state x="459" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1629892138372" />
     <state x="511" y="30" key="refactoring.ChangeSignatureDialog" timestamp="1626620923026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -308,6 +308,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/ArrayRatherThanList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/chapter5/Chooser.java">
           <value>
             <set />
@@ -328,7 +333,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/ObjectStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/ObjectStackCopy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/chapter5/Stack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/stack/ObjectStack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/stack/ObjectStackCopy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/stack/ObjectStackCopy1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/stack/ObjectStackCopy2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/stack/Stack.java">
           <value>
             <set />
           </value>
