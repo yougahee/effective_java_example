@@ -113,3 +113,11 @@ a
 1src/chapter5/generic_method/IdentityFunction.java,2\f\2f312d207ac09bec7e238aac6a46decef7e2f385
 c
 3src/chapter5/generic_method/RecursiveTypeBound.java,0\c\0ca0a80a19c52b9e1a358b3d9805df92bdf1798c
+Z
+*src/chapter5/stack/StackWildCardTest1.java,0\a\0a145746aec050ff16e9fecd070cbf8417a2a535
+F
+src/chapter5/Swap.java,4\9\4982d04bad899791b945e272c3c4f519f6df5aa1
+Q
+!src/chapter5/varargs/Varargs.java,f\5\f5be269006b40de7c91b57cc2cbcfd8f5ab6a0da
+Y
+)src/chapter5/varargs/SafeVarargsTest.java,8\6\86dc954b3c0d49b38277bf861b4dd42c8298846f

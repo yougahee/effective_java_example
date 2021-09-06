@@ -348,6 +348,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/Swap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/chapter5/generic_method/IdentityFunction.java">
           <value>
             <set />
@@ -389,6 +394,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/chapter5/stack/Stack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/stack/StackWildCardTest1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/varargs/SafeVarargs.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/varargs/SafeVarargsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/chapter5/varargs/Varargs.java">
           <value>
             <set />
           </value>
