@@ -121,3 +121,15 @@ Q
 !src/chapter5/varargs/Varargs.java,f\5\f5be269006b40de7c91b57cc2cbcfd8f5ab6a0da
 Y
 )src/chapter5/varargs/SafeVarargsTest.java,8\6\86dc954b3c0d49b38277bf861b4dd42c8298846f
+J
+src/chapter6/Ensemble.java,1\9\1918009bbfac73200623a7d1ad73ce843b9ffe61
+R
+"src/chapter6/EnsembleInstance.java,0\2\02edcd574a21e8364a91033ba3658ca3ddf80e29
+J
+src/chapter6/Operator.java,3\5\35d6be26d6f375c81c4b515268303d3896ba9d36
+S
+#src/chapter6/OperatorClassBody.java,6\a\6af9f3be534280d3075f8d88f31b83aa6dfc2571
+L
+src/chapter6/PayrollDay.java,9\a\9a4cb3330b9a2331abcefa7b9decc086a1f108c2
+S
+#src/chapter6/PayrollDayPayType.java,e\d\ed22ba213f1db5b7012f3cc8ad352f9103d3a6c0
