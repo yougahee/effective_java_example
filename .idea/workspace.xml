@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/EnumSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/item37/Plant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/item38/BasicOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/item38/ExtendedOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/item38/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/MarkerAnnatation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/RunTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/Sample3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,6 +48,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -63,17 +65,18 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.13351136" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter6.item39" />
       <recent name="chapter6.item38" />
       <recent name="chapter6" />
       <recent name="chapter5.stack" />
       <recent name="chapter5.generic_method" />
-      <recent name="chapter5" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Varargs">
@@ -223,7 +226,7 @@
       <workItem from="1630242978822" duration="3094000" />
       <workItem from="1630498540883" duration="2609000" />
       <workItem from="1630929284592" duration="7066000" />
-      <workItem from="1631537902501" duration="4219000" />
+      <workItem from="1631537902501" duration="6723000" />
     </task>
     <servers />
   </component>
