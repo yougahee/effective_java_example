@@ -4,12 +4,12 @@ import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Varargs {
-	static void dangerous(List<String>... stringList) {
+	/*static void dangerous(List<String>... stringList) {
 		List<Integer> intList = List.of(42);
 		Object[] objects = stringList;
 		objects[0] = intList; //힙 오염 발생
 		String s = stringList[0].get(0);
-	}
+	}*/
 
 	static <T> T[] toArray(T... args) {
 		return args;

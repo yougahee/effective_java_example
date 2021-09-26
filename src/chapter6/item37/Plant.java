@@ -3,6 +3,7 @@ package chapter6.item37;
 import java.util.*;
 
 import static java.util.stream.Collectors.groupingBy;
+import static java.util.stream.Collectors.toSet;
 
 public class Plant {
     enum LifeCycle { ANNUAL, PERENNIAL, BIENNIAL }
@@ -37,5 +38,10 @@ public class Plant {
         for(Plant p : garden)
             plantsByLifeCycle1.get(p.lifeCycle).add(p);
         System.out.println(plantsByLifeCycle);
+
+//        //stream 사용
+//        System.out.println(Arrays.stream(garden)
+//                .collect(groupingBy(p -> p.lifecycle,
+//                        () -> new EnumMap<>(LifeCycle.class), toSet())));
     }
 }

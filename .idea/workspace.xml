@@ -5,12 +5,101 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/MarkerAnnatation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/RunTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/Sample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6/item39/Sample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item37/Phase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6/item40/Biagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/item42/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/item42/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/item42/Operator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/META-INF/effective_java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter11/Automatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter11/Automatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter11/ExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter11/ExceptionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/RomanNumerals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/RomanNumerals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/CalzonePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NutritionFacts$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NutritionFacts$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NutritionFacts$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NutritionFacts$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NutritionFacts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NutritionFacts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$Size.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza$Size.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/NyPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza$Topping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza$Topping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/builder/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/Lexicon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/Lexicon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/NoriDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/NoriDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/SpellChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/SpellChecker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/SpellChecker2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/SpellChecker2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/SpellChecker3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/dependent_object/SpellChecker3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/memory/CacheTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/memory/CacheTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/memory/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/memory/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/singleton/Elvis3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/static_factory_method/StaticFactoryMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/static_factory_method/StaticFactoryMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/try_with_resource/TryFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/try_with_resource/TryFinally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter2/try_with_resource/Try_Finally_Resource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter2/try_with_resource/Try_Finally_Resource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter3/clone/HashTable$Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/clone/HashTable$Entry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter3/clone/HashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/clone/HashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter3/clone/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/clone/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter3/compare/PhoneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/compare/PhoneNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/CaseInsensitiveString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/CaseInsensitiveString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/ColorPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/ColorPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/EqualsOverride.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/EqualsOverride.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/PhoneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/PhoneNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter3/equals/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/Complex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/Complex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/ForwardingSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/ForwardingSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/InstrumentedHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/InstrumentedHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/InstrumentedSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/InstrumentedSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/interfacetype/PhysicalConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/interfacetype/PhysicalConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/interfacetype/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/interfacetype/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/AnonymousClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/AnonymousClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/MySet$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/MySet$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/MySet$MyIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/MySet$MyIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/MySet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/MySet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/Outer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/Outer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/StaticNestedClass$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/StaticNestedClass$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/StaticNestedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/nested/StaticNestedClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/AbstractFigure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/AbstractFigure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Figure$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Figure$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Figure$Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Figure$Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Figure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Figure.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/tag/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Dessert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Dessert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Test$Dessert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Test$Dessert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Test$Utensil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Test$Utensil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Utensil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter4/topclass/Utensil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/ArrayRatherThanList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/ArrayRatherThanList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/Chooser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/Chooser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/Generic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/GenericMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/GenericMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/LawExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/LawExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/Swap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/generic_method/IdentityFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/generic_method/IdentityFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/generic_method/RecursiveTypeBound.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/generic_method/RecursiveTypeBound.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/generic_method/Union.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/generic_method/Union.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/generic_method/UnionGeneric1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/generic_method/UnionGeneric1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/ObjectStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/ObjectStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/ObjectStackCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/ObjectStackCopy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/ObjectStackCopy1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/ObjectStackCopy1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/ObjectStackCopy2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/ObjectStackCopy2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/StackWildCardTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/stack/StackWildCardTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter5/varargs/Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter5/varargs/Varargs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter7/Ramda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5/varargs/Varargs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5/varargs/Varargs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/item37/Plant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/item37/Plant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Ramda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/item42/Ramda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +119,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -72,20 +169,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter7.item42" />
       <recent name="chapter6.item39" />
       <recent name="chapter6.item38" />
       <recent name="chapter6" />
       <recent name="chapter5.stack" />
-      <recent name="chapter5.generic_method" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Varargs">
-    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.GenericMethod" />
+  <component name="RunManager" selected="Application.Biagram">
+    <configuration name="Biagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.item40.Biagram" />
       <module name="effective_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.stack.*" />
+          <option name="PATTERN" value="chapter6.item40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +247,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GenericMethod" />
       <item itemvalue="Application.InstrumentedHashSet" />
       <item itemvalue="Application.Room" />
       <item itemvalue="Application.IdentityFunction" />
       <item itemvalue="Application.Varargs" />
+      <item itemvalue="Application.Biagram" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Biagram" />
         <item itemvalue="Application.Varargs" />
         <item itemvalue="Application.IdentityFunction" />
         <item itemvalue="Application.InstrumentedHashSet" />
         <item itemvalue="Application.Room" />
-        <item itemvalue="Application.GenericMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +323,7 @@
       <workItem from="1630242978822" duration="3094000" />
       <workItem from="1630498540883" duration="2609000" />
       <workItem from="1630929284592" duration="7066000" />
-      <workItem from="1631537902501" duration="6723000" />
+      <workItem from="1631537902501" duration="15207000" />
     </task>
     <servers />
   </component>
