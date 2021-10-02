@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/item44/EldestEntryRemovalFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/item45/Anagrams1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/item45/Anagrams2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/item45/Anagrams3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/item46/CollectorFactoryy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter7/item42/Ramda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter7/item42/Ramda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -78,14 +82,40 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter7.item45" />
       <recent name="chapter7.item42" />
       <recent name="chapter6.item39" />
       <recent name="chapter6.item38" />
       <recent name="chapter6" />
-      <recent name="chapter5.stack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Biagram">
+  <component name="RunManager" selected="Application.Anagrams3">
+    <configuration name="Anagrams1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.item45.Anagrams1" />
+      <module name="effective_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.item45.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Anagrams3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.item45.Anagrams3" />
+      <module name="effective_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.item45.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Biagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter6.item40.Biagram" />
       <module name="effective_java" />
@@ -112,36 +142,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstrumentedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter4.InstrumentedHashSet" />
-      <module name="effective_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Room" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter2.Room" />
-      <module name="effective_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.varargs.Varargs" />
       <module name="effective_java" />
@@ -156,19 +156,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InstrumentedHashSet" />
-      <item itemvalue="Application.Room" />
       <item itemvalue="Application.IdentityFunction" />
       <item itemvalue="Application.Varargs" />
       <item itemvalue="Application.Biagram" />
+      <item itemvalue="Application.Anagrams1" />
+      <item itemvalue="Application.Anagrams3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Anagrams3" />
+        <item itemvalue="Application.Anagrams1" />
         <item itemvalue="Application.Biagram" />
         <item itemvalue="Application.Varargs" />
         <item itemvalue="Application.IdentityFunction" />
-        <item itemvalue="Application.InstrumentedHashSet" />
-        <item itemvalue="Application.Room" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +232,7 @@
       <workItem from="1630242978822" duration="3094000" />
       <workItem from="1630498540883" duration="2609000" />
       <workItem from="1630929284592" duration="7066000" />
-      <workItem from="1631537902501" duration="19101000" />
+      <workItem from="1631537902501" duration="22082000" />
     </task>
     <servers />
   </component>

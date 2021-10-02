@@ -2,7 +2,7 @@ package chapter7.item45;
 
 import java.util.*;
 
-public class Anagrams {
+public class Anagrams1 {
     public static void main(String[] args) {
         List<String> anagramList = Arrays.asList("staple", "apple", "aelpst", "petals", "pplea");
 

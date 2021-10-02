@@ -1,21 +1,17 @@
-Anagramspackage chapter7.item45;
+package chapter7.item45;
 
 import java.util.*;
 
-public class Anagrams2 {
+import static java.util.stream.Collectors.groupingBy;
+
+public class Anagrams3 {
     public static void main(String[] args) {
         List<String> anagramList = Arrays.asList("staple", "apple", "aelpst", "petals", "pplea");
 
-        Map<String, Set<String>> groups = new HashMap<>();
-
-        for (String anagram : anagramList) {
-            groups.computeIfAbsent(alphabetize(anagram),
-                    (unused) -> new TreeSet<>()).add(anagram);
-        }
-
-        for(Set<String> group : groups.values())
-            if (group.size() >= 1)
-                System.out.println(group.size() + ": " + group);
+        anagramList.stream().collect(groupingBy(Anagrams3::alphabetize))
+                .values().stream()
+                .filter(group -> group.size() >= 1)
+                .forEach(group-> System.out.println(group.size() + ": " + group));
     }
 
     private static String alphabetize(String s) {
