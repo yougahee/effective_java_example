@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="" />
+    <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter7/item44/EldestEntryRemovalFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -227,7 +232,7 @@
       <workItem from="1630242978822" duration="3094000" />
       <workItem from="1630498540883" duration="2609000" />
       <workItem from="1630929284592" duration="7066000" />
-      <workItem from="1631537902501" duration="15780000" />
+      <workItem from="1631537902501" duration="19101000" />
     </task>
     <servers />
   </component>
