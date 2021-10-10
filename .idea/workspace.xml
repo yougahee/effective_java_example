@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter7/item45/Anagrams1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/item45/Anagrams2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/item45/Anagrams3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter7/item46/CollectorFactoryy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/item49/NonNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/item50/Period1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/item50/Period2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/item50/Period3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/item50/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter7/item42/Ramda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter7/item42/Ramda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter7/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter7/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter7/item45/Anagrams3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter7/item45/Anagrams3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/OperatorClassBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/OperatorClassBody.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/item45/Anagrams3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/item45/Anagrams3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/item46/CollectorFactoryy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/item46/CollectorFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,14 +92,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter8.item50" />
       <recent name="chapter7.item45" />
       <recent name="chapter7.item42" />
       <recent name="chapter6.item39" />
       <recent name="chapter6.item38" />
-      <recent name="chapter6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Anagrams3">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Anagrams1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter7.item45.Anagrams1" />
       <module name="effective_java" />
@@ -116,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Biagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter6.item40.Biagram" />
+    <configuration name="NonNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.item49.NonNull" />
       <module name="effective_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter6.item40.*" />
+          <option name="PATTERN" value="chapter8.item49.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IdentityFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.generic_method.IdentityFunction" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.item50.Test" />
       <module name="effective_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.generic_method.*" />
+          <option name="PATTERN" value="chapter8.item50.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Varargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.varargs.Varargs" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.Test" />
       <module name="effective_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter5.varargs.*" />
+          <option name="PATTERN" value="chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IdentityFunction" />
-      <item itemvalue="Application.Varargs" />
-      <item itemvalue="Application.Biagram" />
       <item itemvalue="Application.Anagrams1" />
       <item itemvalue="Application.Anagrams3" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.NonNull" />
+      <item itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.NonNull" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Anagrams3" />
         <item itemvalue="Application.Anagrams1" />
-        <item itemvalue="Application.Biagram" />
-        <item itemvalue="Application.Varargs" />
-        <item itemvalue="Application.IdentityFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +242,7 @@
       <workItem from="1630242978822" duration="3094000" />
       <workItem from="1630498540883" duration="2609000" />
       <workItem from="1630929284592" duration="7066000" />
-      <workItem from="1631537902501" duration="22082000" />
+      <workItem from="1631537902501" duration="31677000" />
     </task>
     <servers />
   </component>
@@ -249,5 +259,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter8/item50/Period2.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

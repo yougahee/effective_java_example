@@ -4,7 +4,6 @@ import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-import static java.time.chrono.JapaneseEra.values;
 import static java.util.stream.Collectors.toMap;
 
 public enum OperatorClassBody {
@@ -22,8 +21,7 @@ public enum OperatorClassBody {
 
 	private static final Map<String, OperatorClassBody> stringToEnum =
 			Stream.of(values()).collect(
-					toMap(Object::toString, e -> e)
-			);
+					toMap(Object::toString, e -> e));
 
 	public static Optional<OperatorClassBody> fromString(String symbol) {
 		return Optional.ofNullable(stringToEnum.get(symbol));

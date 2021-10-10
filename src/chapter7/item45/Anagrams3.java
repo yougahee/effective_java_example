@@ -14,7 +14,7 @@ public class Anagrams3 {
                 .forEach(group-> System.out.println(group.size() + ": " + group));
     }
 
-    private static String alphabetize(String s) {
+    public static String alphabetize(String s) {
         char[] a = s.toCharArray();
         Arrays.sort(a);
         return new String(a);

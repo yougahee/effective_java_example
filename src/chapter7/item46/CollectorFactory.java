@@ -1,14 +1,16 @@
 package chapter7.item46;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import chapter6.Operator;
+import chapter7.item45.Anagrams3;
 
+import java.util.*;
+import java.util.stream.Stream;
+
+import static chapter4.Method.values;
 import static java.util.Comparator.comparing;
 import static java.util.stream.Collectors.*;
 
-public class CollectorFactoryy {
+public class CollectorFactory {
     public static void main(String[] args) {
         final Map<String, Long> freq1 = new HashMap<>();
         Map<String, Long> freq2;
@@ -25,10 +27,18 @@ public class CollectorFactoryy {
         freq2 = anagramList.stream()
                 .collect(groupingBy(String::toLowerCase, counting()));
 
-        //
+        // Collectors 중 수집기 사용
         List<String> topTen = freq2.keySet().stream()
                 .sorted(comparing(freq2::get).reversed())
                 .limit(10)
-                .collect(toList());
+                .collect(toList());/*
+
+        Map<Artist, Album> topHits = albums.collect(
+                toMap(Album::artist, a -> a, maxBy(comparing(Album::sales))));
+*/
+
+        Map<String, Long> freq = anagramList.stream()
+                .collect(groupingBy(String::toLowerCase, counting()));
+
     }
 }
