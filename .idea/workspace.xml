@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter8/item49/NonNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/item50/Period1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/item50/Period2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/item50/Period3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/item50/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter6/OperatorClassBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter7/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter7/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/effective_java/chapter7/item45/Anagrams3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/effective_java/chapter7/item45/Anagrams3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6/OperatorClassBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6/OperatorClassBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter7/item45/Anagrams3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/item45/Anagrams3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter7/item46/CollectorFactoryy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7/item46/CollectorFactory.java" afterDir="false" />
-    </list>
+    <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,7 +224,9 @@
       <workItem from="1630242978822" duration="3094000" />
       <workItem from="1630498540883" duration="2609000" />
       <workItem from="1630929284592" duration="7066000" />
-      <workItem from="1631537902501" duration="31677000" />
+      <workItem from="1631537902501" duration="35666000" />
+      <workItem from="1633953093957" duration="380000" />
+      <workItem from="1634125816032" duration="79000" />
     </task>
     <servers />
   </component>
@@ -259,6 +243,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
