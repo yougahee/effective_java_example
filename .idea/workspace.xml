@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff37b8ae-9dba-4769-a222-496fda63d61a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter8/item52/CollectionClassifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/item52/SetList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/item52/SparklingWine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8/item52/Wine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/item52/MethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8/item55/OptionalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter9/For.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,20 +86,7 @@
       <recent name="chapter6.item38" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionClassifier">
-    <configuration name="Anagrams3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter7.item45.Anagrams3" />
-      <module name="effective_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter7.item45.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OptionalTest">
     <configuration name="CollectionClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter8.item52.CollectionClassifier" />
       <module name="effective_java" />
@@ -120,6 +106,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter8.item49.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OptionalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.item55.OptionalTest" />
+      <module name="effective_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8.item55.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Anagrams3" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.NonNull" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.CollectionClassifier" />
+      <item itemvalue="Application.OptionalTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalTest" />
         <item itemvalue="Application.CollectionClassifier" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.NonNull" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Anagrams3" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +232,7 @@
       <workItem from="1631537902501" duration="35666000" />
       <workItem from="1633953093957" duration="380000" />
       <workItem from="1634125816032" duration="79000" />
-      <workItem from="1634215101299" duration="7216000" />
+      <workItem from="1634215101299" duration="11849000" />
     </task>
     <servers />
   </component>
